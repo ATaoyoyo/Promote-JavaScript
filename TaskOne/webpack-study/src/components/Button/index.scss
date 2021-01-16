@@ -1,0 +1,14 @@
+.button-group {
+  button {
+    color: #666;
+    background-color: #fff;
+    border: 1px solid #666;
+    border-radius: 5px;
+
+    &.selected {
+      color: #fff;
+      background-color: #f66;
+
+    }
+  }
+}
