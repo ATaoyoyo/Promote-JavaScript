@@ -1,0 +1,18 @@
+.nav {
+  border-bottom: 1px solid #333333;
+  overflow: hidden;
+
+  .nav-item {
+    float: left;
+    padding: 10px 20px;
+    width: 33.33%;
+    text-align: center;
+    box-sizing: border-box;
+    cursor: pointer;
+
+    &.current {
+      color: #ffffff;
+      background-color: #333333;
+    }
+  }
+}
