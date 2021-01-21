@@ -34,5 +34,6 @@
 
 - html-webpack-plugin
 
-
+```js
 yarn add -D webpack webpack-cli webpack-dev-server babel-loader@7 babel-core babel-preset-env babel-plugin-transform-runtime babel-plugin-transform-decorators babel-plugin-transform-decorators-legacy sass-loader node-sass css-loader style-loader ejs-loader html-webpack-plugin --registry=https://registry.npm.taobao.org
+```
